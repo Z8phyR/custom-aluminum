@@ -14,14 +14,14 @@ h3 {
 
 body {
   text-align: center;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-between; */
 }
 header {
   position: relative;
   width: 100vw;
-  height: 12vh;
+  height: 13vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
